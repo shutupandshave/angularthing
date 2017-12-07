@@ -21,6 +21,7 @@
     "@angular/platform-browser": "^5.0.0",
     "@angular/platform-browser-dynamic": "^5.0.0",
     "@angular/router": "^5.0.0",
+    "@ng-bootstrap/ng-bootstrap": "^1.0.0-beta.6",
     "core-js": "^2.4.1",
     "rxjs": "^5.5.2",
     "zone.js": "^0.8.14"
@@ -45,5 +46,15 @@
     "ts-node": "~3.2.0",
     "tslint": "~5.7.0",
     "typescript": "~2.4.2"
-  }
+  },
+  "description": "This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.0.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shutupandshave/angularthing.git"
+  },
+  "author": "",
+  "bugs": {
+    "url": "https://github.com/shutupandshave/angularthing/issues"
+  },
+  "homepage": "https://github.com/shutupandshave/angularthing#readme"
 }
